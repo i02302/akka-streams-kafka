@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka-streams-kafka.iml" filepath="$PROJECT_DIR$/.idea/modules/akka-streams-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-build.iml" filepath="$PROJECT_DIR$/.idea/modules/core-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hoge-akka-stream-kafka-build.iml" filepath="$PROJECT_DIR$/.idea/modules/hoge-akka-stream-kafka-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/launcher/launcher.iml" filepath="$PROJECT_DIR$/launcher/launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-build.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/receiver/receiver.iml" filepath="$PROJECT_DIR$/receiver/receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/receiver-build.iml" filepath="$PROJECT_DIR$/.idea/modules/receiver-build.iml" />
+    </modules>
+  </component>
+</project>
