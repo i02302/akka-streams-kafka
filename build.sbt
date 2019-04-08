@@ -1,4 +1,4 @@
-name := "hoge-akka-stream-kafka"
+name := "akka-streams-kafka"
 
 version := "0.1"
 
